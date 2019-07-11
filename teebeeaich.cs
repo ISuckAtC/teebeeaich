@@ -20,6 +20,9 @@ namespace teebeeaich
                     case '-':
                         endString += "dash ";
                         break;
+                    case ':':
+                        endString += "colon ";
+                        break;
                     case 'a':
                         endString += "ay ";
                         break;
